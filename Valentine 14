@@ -212,31 +212,11 @@ function shareLink(){
 
 </body>
 </html>
-<audio id="music" src="love.mp3"></audio>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Our Memories</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-
     <h1>Our Beautiful Moments 💖</h1>
 
     <div class="gallery">
         <div class="card">
-            <img src="images/img1.jpg" alt="Memory 1">
-        </div>
-
-        <div class="card">
-            <img src="images/img2.jpg" alt="Memory 2">
-        </div>
-
-        <div class="card">
-            <img src="images/img3.jpg" alt="Memory 3">
-        </div>
-    </div>
-
-</body>
+            <img src="IMG_2017.jpeg">
+<img src="IMG_2020.jpeg">
+<img src="IMG_2021.jpeg">
 </html>
